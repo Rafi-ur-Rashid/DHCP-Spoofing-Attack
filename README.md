@@ -1,7 +1,6 @@
 # DHCP-Spoofing-Attack-Network-Security
 
 In this project, I am implementing DHCP Spoofing Attack. 
-Details about this project is in the `Report.pdf` file. You can learn details about my implementation of the attack there. 
 
 # Note - 
 1. All the dhcp-spoofing codes are in `final-code` folder.  
