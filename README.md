@@ -1,6 +1,6 @@
 # DHCP-Spoofing-Attack-Network-Security
 
-In this project, I am implementing DHCP Spoofing Attack. 
+In this project, I am implementing DHCP Spoofing Attack. An attacker can spoof the DHCP server and send forged replies to the client with fake network settings allowing the attacker to intercept upcoming client’s communication.
 
 # Note - 
 1. All the dhcp-spoofing codes are in `final-code` folder.  
